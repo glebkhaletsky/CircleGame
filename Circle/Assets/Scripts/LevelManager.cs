@@ -37,6 +37,21 @@ public class LevelManager : MonoBehaviour
             case (5):
                 level4.SetActive(true);
                 break;
+            case (6):
+                level1.SetActive(true);
+                break;
+            case (7):
+                level2.SetActive(true);
+                break;
+            case (8):
+                level3.SetActive(true);
+                break;
+            case (9):
+                level4.SetActive(true);
+                break;
+            case (10):
+                level4.SetActive(true);
+                break;
         }
     }
 
